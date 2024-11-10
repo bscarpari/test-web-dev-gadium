@@ -4,7 +4,9 @@
 
 A technical assessment of 9 questions about PHP programming fundamentals made for the internship program of the company Gaudium.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Language: PHP](https://img.shields.io/badge/Language-PHP-blue.svg)](https://www.php.net/) [![Last Commit](https://img.shields.io/github/last-commit/gaudium-dev/test-web-dev-gadium)](https://github.com/bscarpari/test-web-dev-gadium/commits/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Language: PHP](https://img.shields.io/badge/Language-PHP-blue.svg)](https://www.php.net/) <a href="https://github.com/bscarpari/test-web-dev-gadium/commits/main">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bscarpari/test-web-dev-gadium">
+</a>
 
 #### Table of Contents
 
